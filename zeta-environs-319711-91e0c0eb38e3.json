@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "zeta-environs-319711",
+  "private_key_id": "91e0c0eb38e36fd526ecbb01f7228efdedfa8b9f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDv5fmCoLHF3xZw\nomvfiffvSReA6fWS1NTcuhxDPte+zSShpYV25yL97wqLd0XlRyRblIFaBN0TvuyG\nmUeFZS2pgv++h+HfEv7V16uZtAcvaXlsf3E0aHyoerkQzvC3iu9dF0NQuf6tVJF0\nW396UyQqDW2lLWtK8MK7Ke0RvbhoWloVXVWUY6wVyUPApTprOtDQ2ubExjwWFm/p\nSccbum5dd7iepPwcR5yB1rL8ZGISx7HDITi04VpiL2OhOtgQDHRbsbXkX10hpMYm\nqDGqHCJNeWTIHcUAUKn1N6lix+b2STrqMXsBfxF8I66jnKxXMH9X5BFOYpvyh5UK\nnIDf2MFfAgMBAAECggEABWGtKLiDyb1jlVBCHOgilzbBCmPKiKox7OeskEzzGF/Q\nEA4/Vwz//x6jJ8DGYR/TmXhUidlCalnQmC5iaS7Ss5LxkMEfQy/7u9P+5fpLZPgN\nQMP/x/NbbzNy6QUeEkf8GaRWyWilZWxYZ6Sme0SCiFeicN+ldgS+TDuNtWWs+C5E\n6DzNRCusHZpMat9L2adt1bqAyRffFIGIEpCfGVxoeVbY+AUzBdAEAEtT1Dlfc4jd\n9yZrKaBbdfUacY9llF+MVvrJ4Al5SiJ4LUGanM16obY5ZwMMYwno5myfobqvf4y5\nkq6b4KEnKVhZ4gcYRPGUFlZsUqLWzFy7g58CH3VMuQKBgQD9wo+mOx4FkBF+t6xd\nLWeA4Tjl3VXwaKe81O3Jrqwwnw1gInkIUYOjWdTs1vhFYI804UQt9Uvb1jkn7jOe\n8br6ZOLkWpt7M7AadAiyHVrZyRnNkMATVWfulmOv3TIWXY3RtCWTZwE58zNqJAMI\n60R2eSUPtZx6qKWXjXVJN7kqGQKBgQDyBBbgfLfb39DmHngOcR25x5UHRaUG3AWR\nxl+WzvkzQMDzXhrhTZ4TDDR7flap36Rj67Floug4Sd5OvPPP9HnO9rLPEpl7qtdz\nH8/IusvjOjCr+9J3O1s0N2mZvzmaOiQDPseE8kbab/pMYmiC0tSM/cS5fyYO2pRS\nHMwiTXkmNwKBgGpsF0ySzHNuyTeIljv5l8fgLLmSSsFpUreJ4TPNEp/NhJGFw5au\ngPOX8Aln2nVWGpkFxE816ZuHyy6o4nNNU6pBdzpnmX9g3QErGp6AWyKtCSpCA5vY\nHJ9d6O7PaHsivyBsWbno4AXKrgxcj/1EldDN27Ir6zUx10io5cBQI1K5AoGAXrxH\nED0B46nrJglLSavxzOVZau1SOisqavPSO0BtwCha32k48HTnqeEfMjA0UG7g9NQw\nLu7kJBSWVxAUCJVUkTV0rSZEumoXyFLtjU/BvALtRoVez5mGjBwc1DhMnhigPDz4\n8Qu9vIgU3I2xB3TsCvzTYyFojmv1n2byaYMWJ2UCgYEA7VrvPRyW833q1NKVSjI8\n4Rtuf/RbCkB5Igsz93iUZFIhj3fUoUTDRyZQqo5lt7iIo/V50f0BtE81HLX10hRl\n+WH+lXpYy9ewNhBYM870zSpHOgyV6Lr6WymxdKnj8ifTvzI79J1vIjp7loNPNFHW\n4ML6rh4cTflnjjYwDhwy3Kg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "swag-auth@zeta-environs-319711.iam.gserviceaccount.com",
+  "client_id": "106541888949471109653",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/swag-auth%40zeta-environs-319711.iam.gserviceaccount.com"
+}
