@@ -25,7 +25,7 @@ class StorageTree:
     name: str
 
     type: str = field(init=False, default='directory')
-    children: list[Union['StorageTree', File]] = field(default_factory=list)
+    children: List[Union['StorageTree', File]] = field(default_factory=list)
 
     def add_file(self, path, file: File):
         current_path = self.children
